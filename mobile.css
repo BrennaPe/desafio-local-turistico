@@ -1,0 +1,21 @@
+header{
+    flex-flow: column;
+}
+
+
+header h1{
+    flex-basis: 0px;
+    align-items: center;
+    text-align: center;
+
+}
+
+header ul{
+    flex-flow: column;
+    padding-block: 16px;
+}
+
+header ul li a{
+    width: 90vw;
+    justify-content: center;
+}
